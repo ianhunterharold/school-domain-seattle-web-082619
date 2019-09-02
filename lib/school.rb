@@ -18,7 +18,10 @@ class School
   end 
 
   def sort
+    sorted = {}
+    @roster.
     
+    sorted 
   end 
   
 end 
