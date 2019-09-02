@@ -17,5 +17,7 @@ class School
     self.roster[grade]
   end 
 
-
+  def 
+    
+  end 
 end 
