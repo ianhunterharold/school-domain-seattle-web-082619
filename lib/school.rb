@@ -8,17 +8,6 @@ class School
     @roster = {}
     end 
 
-    #initialized with name and roster in the start
-
-    def add_student (name, grade)
-    
-    @roster[@grade]=[]
-    @roster[@grade]<<@name
-
-    end 
-    
-    #grade then [name] 
-
 
 
 
