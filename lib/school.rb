@@ -19,8 +19,8 @@ class School
 
   def sort
     sorted = {}
-    @roster.
-    
+    @roster.each do ||
+      
     sorted 
   end 
   
